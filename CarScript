@@ -1,0 +1,5 @@
+#move forward
+vector3 = getAxis('x','y','z'):
+      position(central Axis)
+      GoForward
+      getinput
